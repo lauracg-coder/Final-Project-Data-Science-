@@ -1,0 +1,10 @@
+name: "Final Project"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "Weather Patterns"
+      href: Weather_patterns.html
+output:
+  html_document:
+    theme: cerulean
